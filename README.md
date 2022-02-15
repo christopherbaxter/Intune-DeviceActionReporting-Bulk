@@ -134,3 +134,6 @@ Basically, All this code does is takes the raw error code from the MS Graph API,
 For example: Raw error is -2147023728, which means the error in the console is 0x80070490. The error means "Element not Found". I also added some code in to still output the raw error code if it is one not covered by the code above, allowing me to add it in if needed.
 
 ![](https://github.com/christopherbaxter/Intune-DeviceActionReporting-Bulk/blob/12c228e584a7562bf1e016a21b2f63f3c48e9cbd/Images/11-GenerateReportAndDumpExtract.jpg)
+
+Visitor Counter (Excuse the font, I have no idea what I'm doing)
+![Visitor Count](https://profile-counter.glitch.me/christopherbaxter/count.svg)
