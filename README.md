@@ -135,5 +135,5 @@ For example: Raw error is -2147023728, which means the error in the console is 0
 
 ![](https://github.com/christopherbaxter/Intune-DeviceActionReporting-Bulk/blob/12c228e584a7562bf1e016a21b2f63f3c48e9cbd/Images/11-GenerateReportAndDumpExtract.jpg)
 
-Visitor Counter (Excuse the font, I have no idea what I'm doing)
-![Visitor Count](https://profile-counter.glitch.me/christopherbaxter/count.svg)
+Visitor Counter (Excuse the font, I have no idea what I'm doing)\
+![Visitor Count](https://profile-counter.glitch.me/Intune-DeviceActionReporting-Bulk/count.svg)
